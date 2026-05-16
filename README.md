@@ -14,7 +14,7 @@
 - 💻 **Junior Full Stack Developer** passionate about Web Development
 - 🛡️ Learning **CyberSecurity** — TryHackMe | Burp Suite | Linux | OWASP Top 10
 - 🤖 Exploring **AI & Machine Learning** fundamentals
-- 📖 Currently working toward **CompTIA Security+** certification
+- 📖 Currently exploring CyberSecurity — TryHackMe | Linux | OWASP Top 10
 - 📫 Reach me at: **sahranhameed.it@gmail.com**
 - ⚡ Fun fact: *Growth is a daily commitment, not a destination!*
 
