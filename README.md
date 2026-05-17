@@ -50,15 +50,22 @@
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| 🌐 Web Design for Beginners | University of Moratuwa | 2026 |
 | 🐍 Python for Beginners | University of Moratuwa | 2026 |
+| 🌐 Web Design for Beginners | University of Moratuwa | 2026 |
+| ☕ Java Programming for Beginners | Simplilearn | 2026 |
+| 📊 AI for Business Professionals | HP | 2026 |
+| 💡 What is Software Development | Simplilearn | 2026 |
+| 🤝 Professional Networking for Career Growth | HP | 2026 |
+| 🌍 HTML Essentials | Cisco | 2026 |
+| 🧠 Encoder-Decoder Architecture | Simplilearn | 2025 |
 | 💻 Full-Stack Development 101 | Simplilearn | 2025 |
 | 🤖 Introduction to AI | Simplilearn | 2025 |
+| 🤖 AI & Robotics | MARS TECH | 2024 |
 | 🔧 Computer Hardware Basics | Cisco | 2023 |
 | 🛡️ Introduction to CyberSecurity | Cisco | 2023 |
 | ⚠️ Cyber Threat Management | Cisco | 2023 |
 | 🔐 Certified Ethical Hacker CEH v11 | MARS TECH | 2023 |
-| 🤖 AI & Robotics | MARS TECH | 2024 |
+
 
 ---
 
