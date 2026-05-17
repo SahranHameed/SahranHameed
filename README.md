@@ -50,8 +50,8 @@
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| 🌐 Web Design for Beginners | University of Moratuwa | 2025 |
-| 🐍 Python for Beginners | University of Moratuwa | 2025 |
+| 🌐 Web Design for Beginners | University of Moratuwa | 2026 |
+| 🐍 Python for Beginners | University of Moratuwa | 2026 |
 | 💻 Full-Stack Development 101 | Simplilearn | 2025 |
 | 🤖 Introduction to AI | Simplilearn | 2025 |
 | 🔧 Computer Hardware Basics | Cisco | 2023 |
