@@ -1,112 +1,86 @@
-# Hi there, I'm Sahran Hameed 👋
+# Sahran Hameed
 
-<div align="center">
+### Junior Full Stack Developer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Junior+Full+Stack+Developer;CyberSecurity+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80)
-
-</div>
+Based in Riyadh, Saudi Arabia &nbsp;|&nbsp; Originally from Sri Lanka
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🌍 Based in **Riyadh, Saudi Arabia** (Originally from Sri Lanka 🇱🇰)
-- 💻 **Junior Full Stack Developer** passionate about Web Development
-- 🛡️ Learning **CyberSecurity** — TryHackMe | Burp Suite | Linux | OWASP Top 10
-- 🤖 Exploring **AI & Machine Learning** fundamentals
-- 📖 Currently exploring CyberSecurity — TryHackMe | Linux | OWASP Top 10
-- 📫 Reach me at: **sahranhameed.it@gmail.com**
-- ⚡ Fun fact: *Growth is a daily commitment, not a destination!*
+Junior Full Stack Developer with hands-on experience building web applications using modern frontend and backend technologies. Currently expanding expertise in CyberSecurity and Artificial Intelligence. Committed to continuous learning and delivering quality work.
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### Backend & Programming
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### CyberSecurity & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Location:** Riyadh, Saudi Arabia
+- **Email:** sahranhameed.it@gmail.com
+- **Portfolio:** [sahranhameed.github.io/My-Portfolio](https://sahranhameed.github.io/My-Portfolio/)
+- **LinkedIn:** [linkedin.com/in/sahran-hameed](https://linkedin.com/in/sahran-hameed)
 
 ---
 
-## 🎓 Certifications
+## Tech Stack
+
+**Frontend**
+HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; Bootstrap &nbsp;|&nbsp; WordPress
+
+**Backend & Programming**
+PHP &nbsp;|&nbsp; Python &nbsp;|&nbsp; C &nbsp;|&nbsp; MySQL
+
+**CyberSecurity & Networking**
+Linux &nbsp;|&nbsp; Kali Linux &nbsp;|&nbsp; Burp Suite &nbsp;|&nbsp; Nmap &nbsp;|&nbsp; OWASP Top 10 &nbsp;|&nbsp; Cisco Networking
+
+**Tools & Platforms**
+Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
+
+---
+
+## Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [My-Portfolio](https://github.com/SahranHameed/My-Portfolio) | Personal portfolio website — live at GitHub Pages | HTML, CSS, JS, Bootstrap |
+| [Web-Development-Practice](https://github.com/SahranHameed/Web-Development-Practice) | Responsive web projects including calculator, to-do list, and weather widget | HTML, CSS, JavaScript |
+| [Front-End-Development-Using-HTML-CSS-and-Bootstrap](https://github.com/SahranHameed/Front-End-Development-Using-HTML-CSS-and-Bootstrap) | Landing pages, dashboards, and UI components with Bootstrap 5 | HTML, CSS, Bootstrap |
+| [Python-Programming](https://github.com/SahranHameed/Python-Programming) | Python scripts covering core concepts, data structures, and beginner projects | Python |
+| [Artificial-Intelligence](https://github.com/SahranHameed/Artificial-Intelligence) | AI and ML learning projects with data analysis and algorithm experiments | Python, Jupyter Notebook |
+| [Cyber-Security](https://github.com/SahranHameed/Cyber-Security) | CyberSecurity notes, TryHackMe writeups, and ethical hacking exercises | Linux, Various Tools |
+| [C-Programming](https://github.com/SahranHameed/C-Programming) | C fundamentals covering algorithms, memory management, and data structures | C |
+| [phpmysqli](https://github.com/SahranHameed/phpmysqli) | PHP MySQLi CRUD operations with prepared statements and secure connections | PHP, MySQL |
+
+---
+
+## Certifications
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| 🐍 Python for Beginners | University of Moratuwa | 2026 |
-| 🌐 Web Design for Beginners | University of Moratuwa | 2026 |
-| ☕ Java Programming for Beginners | Simplilearn | 2026 |
-| 📊 AI for Business Professionals | HP | 2026 |
-| 💡 What is Software Development | Simplilearn | 2026 |
-| 🤝 Professional Networking for Career Growth | HP | 2026 |
-| 🌍 HTML Essentials | Cisco | 2026 |
-| 🧠 Encoder-Decoder Architecture | Simplilearn | 2025 |
-| 💻 Full-Stack Development 101 | Simplilearn | 2025 |
-| 🤖 Introduction to AI | Simplilearn | 2025 |
-| 🤖 AI & Robotics | MARS TECH | 2024 |
-| 🔧 Computer Hardware Basics | Cisco | 2023 |
-| 🛡️ Introduction to CyberSecurity | Cisco | 2023 |
-| ⚠️ Cyber Threat Management | Cisco | 2023 |
-| 🔐 Certified Ethical Hacker CEH v11 | MARS TECH | 2023 |
-
+| Python for Beginners | University of Moratuwa | 2026 |
+| Web Design for Beginners | University of Moratuwa | 2026 |
+| Java Programming for Beginners | Simplilearn | 2026 |
+| AI for Business Professionals | HP | 2026 |
+| HTML Essentials | Cisco | 2026 |
+| Encoder-Decoder Architecture | Simplilearn | 2025 |
+| Full-Stack Development 101 | Simplilearn | 2025 |
+| Introduction to AI | Simplilearn | 2025 |
+| AI & Robotics | MARS TECH | 2024 |
+| Certified Ethical Hacker CEH v11 | MARS TECH | 2023 |
+| Introduction to CyberSecurity | Cisco | 2023 |
+| Cyber Threat Management | Cisco | 2023 |
+| Computer Hardware Basics | Cisco | 2023 |
 
 ---
 
-## 📂 My Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 [Web-Development-Practice](https://github.com/SahranHameed/Web-Development-Practice) | HTML, CSS & JS practice projects | HTML, CSS, JS |
-| 🐍 [Python-Programming](https://github.com/SahranHameed/Python-Programming) | Python scripts & exercises | Python |
-| 🤖 [Artificial-Intelligence](https://github.com/SahranHameed/Artificial-Intelligence) | AI & ML learning projects | Python, Jupyter |
-| 🛡️ [Cyber-Security](https://github.com/SahranHameed/Cyber-Security) | CyberSecurity learning notes | Various |
-| 💻 [C-Programming](https://github.com/SahranHameed/C-Programming) | C programming fundamentals | C |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+## GitHub Stats
 
 ![Sahran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahranHameed&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahranHameed&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahran-hameed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://sahranhameed.github.io/My-Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahranhameed.it@gmail.com)
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahran-hameed)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahranHameed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahranhameed.it@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *If you find my projects helpful, please consider giving them a star!* ⭐
-
-</div>
+*Last updated: May 2026*
