@@ -40,7 +40,7 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
 | [My-Portfolio](https://github.com/SahranHameed/My-Portfolio) | Personal portfolio website — live at GitHub Pages | HTML, CSS, JS, Bootstrap |
 | [Web-Development-Practice](https://github.com/SahranHameed/Web-Development-Practice) | Responsive web projects including calculator, to-do list, and weather widget | HTML, CSS, JavaScript |
 | [Front-End-Development-Using-HTML-CSS-and-Bootstrap](https://github.com/SahranHameed/Front-End-Development-Using-HTML-CSS-and-Bootstrap) | Landing pages, dashboards, and UI components with Bootstrap 5 | HTML, CSS, Bootstrap |
-| [Python-Programming](https://github.com/SahranHameed/Python-Programming) | Python scripts covering core concepts, data structures, and beginner projects | Python |
+| [Python-Programming](https://github.com/SahranHameed/Python_Programming) | Python scripts covering core concepts, data structures, and beginner projects | Python |
 | [Artificial-Intelligence](https://github.com/SahranHameed/Artificial-Intelligence) | AI and ML learning projects with data analysis and algorithm experiments | Python, Jupyter Notebook |
 | [Cyber-Security](https://github.com/SahranHameed/Cyber-Security) | CyberSecurity notes, TryHackMe writeups, and ethical hacking exercises | Linux, Various Tools |
 | [C-Programming](https://github.com/SahranHameed/C-Programming) | C fundamentals covering algorithms, memory management, and data structures | C |
