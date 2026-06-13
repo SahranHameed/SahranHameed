@@ -40,9 +40,7 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
 | [The-Simon-Game](https://github.com/SahranHameed/The-Simon-Game) | A browser-based Simon memory game. Boss Level Challenge 02 · MERN Stack Training. | HTML5, CSS3, JavaScript(ES6), jQuery, Web Audio API |
 | [The-Dice-Game](https://github.com/SahranHameed/The-Dice-Game) | A two-player dice rolling game. Boss Level Challenge 01 · MERN Stack Training. | HTML5, CSS3, and JavaScript (ES6) |
 | [hajj-umrah-website](https://github.com/SahranHameed/hajj-umrah-website) | A modern responsive Hajj and Umrah travel guide website | HTML5, CSS3, and Bootstrap 5 |
-
 | [My-Portfolio](https://github.com/SahranHameed/My-Portfolio) | Personal portfolio website — live at GitHub Pages | HTML, CSS, JS, Bootstrap |
-
 | [Web-Development-Practice](https://github.com/SahranHameed/Web-Development-Practice) | Responsive web projects including calculator, to-do list, and weather widget | HTML, CSS, JavaScript |
 | [Front-End-Development-Using-HTML-CSS-and-Bootstrap](https://github.com/SahranHameed/Front-End-Development-Using-HTML-CSS-and-Bootstrap) | Landing pages, dashboards, and UI components with Bootstrap 5 | HTML, CSS, Bootstrap |
 | [Python_Programming](https://github.com/SahranHameed/Python_Programming) | Python scripts covering core concepts, data structures, and beginner projects | Python |
