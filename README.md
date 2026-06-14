@@ -37,17 +37,11 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [Student-Management-System](https://github.com/SahranHameed/Student-Management-System) | A responsive Student Management System.featuring student records, marks management, grade reports, attendance tracking, and dashboard analytics. | HTML5, CSS3, Bootstrap 5, JavaScript (ES6), jQuery, Bootstrap Icons |
 | [The-Simon-Game](https://github.com/SahranHameed/The-Simon-Game) | A browser-based Simon memory game. Boss Level Challenge 02 · MERN Stack Training. | HTML5, CSS3, JavaScript(ES6), jQuery, Web Audio API |
 | [The-Dice-Game](https://github.com/SahranHameed/The-Dice-Game) | A two-player dice rolling game. Boss Level Challenge 01 · MERN Stack Training. | HTML5, CSS3, and JavaScript (ES6) |
 | [hajj-umrah-website](https://github.com/SahranHameed/hajj-umrah-website) | A modern responsive Hajj and Umrah travel guide website | HTML5, CSS3, and Bootstrap 5 |
 | [My-Portfolio](https://github.com/SahranHameed/My-Portfolio) | Personal portfolio website — live at GitHub Pages | HTML, CSS, JS, Bootstrap |
-| [Full-Stack-Development-Practice](https://github.com/SahranHameed/Front-End-Development-Using-HTML-CSS-and-Bootstrap) | Landing pages, dashboards, and UI components with Bootstrap 5 | HTML, CSS, Bootstrap |
-| [Python_Programming](https://github.com/SahranHameed/Python_Programming) | Python scripts covering core concepts, data structures, and beginner projects | Python |
-| [Artificial-Intelligence](https://github.com/SahranHameed/Artificial-Intelligence) | AI and ML learning projects with data analysis and algorithm experiments | Python, Jupyter Notebook |
-| [Cyber-Security](https://github.com/SahranHameed/Cyber-Security) | CyberSecurity notes, TryHackMe writeups, and ethical hacking exercises | Linux, Various Tools |
-| [C-Programming](https://github.com/SahranHameed/C-Programming) | C fundamentals covering algorithms, memory management, and data structures | C |
-| [phpmysqli](https://github.com/SahranHameed/phpmysqli) | PHP MySQLi CRUD operations with prepared statements and secure connections | PHP, MySQL |
-
 ---
 
 ## Certifications
