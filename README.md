@@ -48,6 +48,9 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
+| Java (Basic) | HackerRank | 2026 |
+| CSS (Basic) | HackerRank | 2026 |
+| Python Django 101 | Simplilearn | 2026 |
 | Python for Beginners | University of Moratuwa | 2026 |
 | Web Design for Beginners | University of Moratuwa | 2026 |
 | Java Programming for Beginners | Simplilearn | 2026 |
