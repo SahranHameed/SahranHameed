@@ -14,6 +14,7 @@ Junior Full Stack Developer with hands-on experience building web applications u
 - **Email:** sahranhameed.it@gmail.com
 - **Portfolio:** [sahranhameed.github.io/My-Portfolio](https://sahranhameed.github.io/My-Portfolio/)
 - **LinkedIn:** [linkedin.com/in/sahran-hameed](https://linkedin.com/in/sahran-hameed)
+- **HackerRank:** [hackerrank.com/profile/sahranhameed_it](https://www.hackerrank.com/profile/sahranhameed_it)
 
 ---
 
@@ -37,20 +38,28 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Student-Management-System](https://github.com/SahranHameed/Student-Management-System) | A responsive Student Management System.featuring student records, marks management, grade reports, attendance tracking, and dashboard analytics. | HTML5, CSS3, Bootstrap 5, JavaScript (ES6), jQuery, Bootstrap Icons |
-| [The-Simon-Game](https://github.com/SahranHameed/The-Simon-Game) | A browser-based Simon memory game. Boss Level Challenge 02 · MERN Stack Training. | HTML5, CSS3, JavaScript(ES6), jQuery, Web Audio API |
+| [Student-Management-System](https://github.com/SahranHameed/Student-Management-System) | A responsive Student Management System featuring student records, marks management, grade reports, attendance tracking, and dashboard analytics. | HTML5, CSS3, Bootstrap 5, JavaScript (ES6), jQuery, Bootstrap Icons |
+| [The-Simon-Game](https://github.com/SahranHameed/The-Simon-Game) | A browser-based Simon memory game. Boss Level Challenge 02 · MERN Stack Training. | HTML5, CSS3, JavaScript (ES6), jQuery, Web Audio API |
 | [The-Dice-Game](https://github.com/SahranHameed/The-Dice-Game) | A two-player dice rolling game. Boss Level Challenge 01 · MERN Stack Training. | HTML5, CSS3, and JavaScript (ES6) |
 | [hajj-umrah-website](https://github.com/SahranHameed/hajj-umrah-website) | A modern responsive Hajj and Umrah travel guide website | HTML5, CSS3, and Bootstrap 5 |
 | [My-Portfolio](https://github.com/SahranHameed/My-Portfolio) | Personal portfolio website — live at GitHub Pages | HTML, CSS, JS, Bootstrap |
----
-
 
 ---
 
 ## Experience
 
-| [Advanced Software Engineering](https://sahranhameed.github.io/My-Portfolio/assets/Experience/Pdf/Walmart_USA-Advanced-Software-Engineering-Job-Simulation.pdf) | Job Simulation | Forage |
+> Completed 6 industry job simulations via Forage, gaining hands-on exposure to real-world software engineering and full-stack development workflows at top global companies.
 
+| Job Simulation | Issuer | Year |
+|-----------------|--------|------|
+| [Advanced Software Engineering](https://sahranhameed.github.io/My-Portfolio/assets/Experience/Pdf/Walmart_USA-Advanced-Software-Engineering-Job-Simulation.pdf) | Forage (Walmart USA) | July 2026 |
+| [Technology Software Development](https://sahranhameed.github.io/My-Portfolio/assets/Experience/Pdf/Citi-Technology-Software-Development-Job-Simulation.pdf) | Forage (Citi) | July 2026 |
+| [Software Engineering](https://sahranhameed.github.io/My-Portfolio/assets/Experience/Pdf/Quantium-Software-Engineering-Job-Simulation.pdf) | Forage (Quantium) | July 2026 |
+| [Software Engineering](https://sahranhameed.github.io/My-Portfolio/assets/Experience/Pdf/JPMorganChase-Software-Engineering-Job-Simulation.pdf) | Forage (JPMorgan Chase) | July 2026 |
+| [Software Engineering at a Start Up](https://sahranhameed.github.io/My-Portfolio/assets/Experience/Pdf/Y_Combinator-Working-as-a-Software-Engineer-at-a-Start-Up-Job-Simulation.pdf) | Forage (Y Combinator) | July 2026 |
+| [Software Development](https://sahranhameed.github.io/My-Portfolio/assets/Experience/Pdf/Datacom-Software-Development-Job-Simulation.pdf) | Forage (Datacom) | July 2026 |
+
+---
 
 ## Certifications
 
@@ -89,4 +98,4 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
 
 ---
 
-*Last updated: May 2026*
+*Last updated: August 2026*
