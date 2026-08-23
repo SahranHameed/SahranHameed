@@ -54,7 +54,6 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
 | Python for Beginners | University of Moratuwa | 2026 |
 | Web Design for Beginners | University of Moratuwa | 2026 |
 | Java Programming for Beginners | Simplilearn | 2026 |
-| AI for Business Professionals | HP | 2026 |
 | HTML Essentials | Cisco | 2026 |
 | Encoder-Decoder Architecture | Simplilearn | 2025 |
 | Full-Stack Development 101 | Simplilearn | 2025 |
