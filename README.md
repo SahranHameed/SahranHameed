@@ -44,6 +44,14 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code
 | [My-Portfolio](https://github.com/SahranHameed/My-Portfolio) | Personal portfolio website — live at GitHub Pages | HTML, CSS, JS, Bootstrap |
 ---
 
+
+---
+
+## Experience
+
+| [Advanced Software Engineering](https://sahranhameed.github.io/My-Portfolio/assets/Experience/Pdf/Walmart_USA-Advanced-Software-Engineering-Job-Simulation.pdf) | Job Simulation | Forage |
+
+
 ## Certifications
 
 | Certificate | Issuer | Year |
